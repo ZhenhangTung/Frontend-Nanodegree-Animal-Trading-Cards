@@ -1,32 +1,39 @@
-body{
+body {
 	font-family: Times New Roman;
 }
-#animal-image{
+
+.animal-image {
 	width: 300px;
 	margin: 8px;
 	border: 1px solid rgb(202,202,202);
 }
-#interesting-fact{
+
+.interesting-fact {
 	font-style: italic;
 }
-.list-items{
+
+.list-items {
 	font-weight: bold;
 }
-ul{
+
+.list {
 	list-style-type: none;
 	padding: 0;
 }
-.information{
+
+.information {
 	border: 1px solid rgb(202,202,202);
 	width: 320px;
 	background: pink;
 }
-.details{
+
+.details {
 	border: 1px solid rgb(202,202,202);
 	margin: 10px;
 	padding: 10px;
 }
-.animal-name{
+
+.animal-name {
 	margin: 10px;
 	margin-top: 20px;
 	font-size: 30px;
